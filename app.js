@@ -6,6 +6,7 @@ body.addEventListener('click', function(e) {
     ratingSystem(e);
   }
 });
+
 // Set Default Rating
 defaultRating();
 
